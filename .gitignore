@@ -1,0 +1,11 @@
+\.idea
+*.pyc
+
+#pip stuff
+\kinematic_tracker.egg-info
+\build
+\dist
+
+#keras and pythorch stuff
+*.hd5
+*.pt
